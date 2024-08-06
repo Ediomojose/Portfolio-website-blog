@@ -1,0 +1,149 @@
+
+@font-face {
+  font-family: "avenir-heavy";
+  src: url("./../fonts/avenir_ff/AvenirHeavy.ttf") format("truetype");
+}
+@font-face {
+  font-family: "avenir-black";
+  src: url("./../fonts/avenir_ff/AvenirBlack.ttf") format("truetype");
+}
+@font-face {
+  font-family: "avenir-book";
+  src: url("./../fonts/avenir_ff/AvenirBook.ttf") format("truetype");
+}
+@font-face {
+  font-family: "avenir-regular";
+  src: url("./../fonts/avenir_ff/AvenirRegular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "avenir-medium";
+  src: url("./../fonts/avenir_ff/AvenirMedium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "avenir-light";
+  src: url("./../fonts/avenir_ff/AvenirLight.ttf") format("truetype");
+}
+@font-face {
+  font-family: "avenir-roman";
+  src: url("./../fonts/avenir_ff/AvenirRoman.ttf") format("truetype");
+}
+@font-face {
+  font-family: "biotif-medium";
+  src: url("./../fonts/biotif/Biotif-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "biotif-regular";
+  src: url("./../fonts/biotif/Biotif-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "biotif-bold";
+  src: url("./../fonts/biotif/Biotif-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "biotif-black";
+  src: url("./../fonts/biotif/Biotif-Black.ttf") format("truetype");
+}
+
+
+@font-face {
+  font-family: 'spacegrotesk-bold';
+  src: url("./../fonts/spacegrotesk/SpaceGrotesk-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: 'spacegrotesk-light';
+  src: url("./../fonts/spacegrotesk/SpaceGrotesk-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: 'spacegrotesk-medium';
+  src: url("./../fonts/spacegrotesk/SpaceGrotesk-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: 'spacegrotesk-regular';
+  src: url("./../fonts/spacegrotesk/SpaceGrotesk-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'degulardisplay-thinitalic';
+  src: url("./../fonts/degular_display/DegularDisplay-ThinItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-thin';
+  src: url("./../fonts/degular_display/DegularDisplay-Thin.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-semibolditalic';
+  src: url("./../fonts/degular_display/DegularDisplay-SemiboldItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-semibold';
+  src: url("./../fonts/degular_display/DegularDisplay-Semibold.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-regularitalic';
+  src: url("./../fonts/degular_display/DegularDisplay-RegularItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-regular';
+  src: url("./../fonts/degular_display/DegularDisplay-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-mediumitalic';
+  src: url("./../fonts/degular_display/DegularDisplay-MediumItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-medium';
+  src: url("./../fonts/degular_display/DegularDisplay-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-lightitalic';
+  src: url("./../fonts/degular_display/DegularDisplay-LightItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-light';
+  src: url("./../fonts/degular_display/DegularDisplay-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-bolditalic';
+  src: url("./../fonts/degular_display/DegularDisplay-BoldItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-bold';
+  src: url("./../fonts/degular_display/DegularDisplay-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-blackitalic';
+  src: url("./../fonts/degular_display/DegularDisplay-BlackItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: 'degulardisplay-black';
+  src: url("./../fonts/degular_display/DegularDisplay-Black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'trap-semibold';
+  src: url("./../fonts/trap/Trap-SemiBold.otf") format("opentype");
+}
+@font-face {
+  font-family: 'trap-regular';
+  src: url("./../fonts/trap/Trap-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: 'trap-medium';
+  src: url("./../fonts/trap/Trap-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: 'trap-light';
+  src: url("./../fonts/trap/Trap-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: 'trap-extrabold';
+  src: url("./../fonts/trap/Trap-ExtraBold.otf") format("opentype");
+}
+@font-face {
+  font-family: 'trap-bold';
+  src: url("./../fonts/trap/Trap-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: 'trap-black';
+  src: url("./../fonts/trap/Trap-Black.otf") format("opentype");
+}
